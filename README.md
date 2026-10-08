@@ -46,6 +46,13 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=northstar&theme=radical&bg_color=0D1117" width="48%" />
   </a>
 
+  <a href="https://github.com/PoorvaJawale/machine-learning-approaches-for-comparative-literature">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=machine-learning-approaches-for-comparative-literature&theme=radical&bg_color=0D1117" width="48%" />
+  </a>
+  <a href="https://github.com/PoorvaJawale/intellitrail">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=intellitrail&theme=radical&bg_color=0D1117" width="48%" />
+  </a>
+
 </div>
 
 ---
