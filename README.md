@@ -31,36 +31,27 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 <div align="center">
   
   <a href="https://github.com/PoorvaJawale/Maestro.ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=Maestro.ai&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=Maestro.ai&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=Multi-agent+startup+orchestration+system+turning+ideas+into+founder+packages+via+LangGraph" width="48%" />
   </a>
   <a href="https://github.com/PoorvaJawale/axon-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=axon-frontend&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=axon-frontend&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=AI+output+validation+firewall+protecting+production+from+hallucinating+agents+via+11+n8n+workflows" width="48%" />
   </a>
   
   <a href="https://github.com/PoorvaJawale/adhikaar-setu-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=adhikaar-setu-project&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=adhikaar-setu-project&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=AI+civic+platform+automating+government+welfare+for+farmers+via+WhatsApp+%26+Playwright+RPA" width="48%" />
   </a>
   <a href="https://github.com/PoorvaJawale/northstar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=northstar&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=northstar&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=Multimodal+remote-sensing+VLM+assistant+for+satellite+imagery+via+GeoChat-7B+(ISRO+/+SIH)" width="48%" />
   </a>
 
   <a href="https://github.com/PoorvaJawale/machine-learning-approaches-for-comparative-literature">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=machine-learning-approaches-for-comparative-literature&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=machine-learning-approaches-for-comparative-literature&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=NLP+and+machine+learning+framework+for+comparative+literature+and+stylistic+text+analysis" width="48%" />
   </a>
   <a href="https://github.com/PoorvaJawale/intellitrail">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=intellitrail&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=intellitrail&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=Autonomous+AI+trading+platform+with+ML-driven+dynamic+trailing+stop-loss+and+risk+management" width="48%" />
   </a>
 
 </div>
-
-<br>
-
-- **[Maestro.ai](https://github.com/PoorvaJawale/Maestro.ai)** — Autonomous multi-agent startup orchestration system transforming raw ideas into structured founder packages (PRD, architecture, sprint plan, GTM) in minutes using 6 sequential GPT-4o agents via LangGraph, FastAPI, and Pinecone.
-- **[Axon](https://github.com/PoorvaJawale/axon-frontend)** — AI output validation API & firewall protecting production systems from hallucinating agents. Implements a 3-layer guardrail (schema, GPT-4o-mini semantic judge, policy) with fail-closed architecture across 11 n8n workflows, Next.js, and PostgreSQL.
-- **[Adhikaar-Setu](https://github.com/PoorvaJawale/adhikaar-setu-project)** — AI-powered civic platform bridging the welfare access gap for Indian farmers. Combines an intelligent scheme-matching engine, WhatsApp consent loop (Twilio), and Playwright RPA to automate government portal applications with an ethical, OTP-safe framework.
-- **[SatQuery AI (NorthStar)](https://github.com/PoorvaJawale/northstar)** — Interactive vision-language assistant for multimodal satellite & remote-sensing imagery (ISRO / SIH 2026). Features single-image VQA, bi-temporal change detection, and optical-SAR reasoning powered by GeoChat-7B, LangGraph agentic routing, and FastAPI.
-- **[Comparative Literature ML](https://github.com/PoorvaJawale/machine-learning-approaches-for-comparative-literature)** — Research and computational NLP implementations for comparative literature. Leverages machine learning, stylistic feature vectorization, and clustering in Scikit-learn to uncover cross-textual patterns, author signatures, and thematic variations.
-- **[IntelliTrail](https://github.com/PoorvaJawale/intellitrail)** — Autonomous AI algorithmic trading platform with dynamic risk management. Combines an ML price forecasting engine (SMA, RSI, ATR) with adaptive ATR trailing stop-loss strategies, multi-bot portfolio management, and a real-time React 19 dashboard.
 
 ---
 
