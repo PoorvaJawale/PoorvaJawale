@@ -2,12 +2,12 @@
 
 # Hi there, I'm Poorva Jawale!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Architecting+Autonomous+Agents;Crafting+LLM+%26+RAG+Pipelines;Engineering+Intelligent+Software" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+Systems;Architecting+Autonomous+Agents;Crafting+LLM+%26+RAG+Pipelines;Engineering+Intelligent+Software" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://linkedin.com/in/poorva-jawale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/PoorvaJawale"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://poorva-jawale.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/PoorvaJawale"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://poorva-jawale.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
 
 Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deploying LLM-powered applications to orchestrate complex workflows and autonomous systems.
@@ -31,24 +31,24 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 <div align="center">
   
   <a href="https://github.com/PoorvaJawale/Maestro.ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=Maestro.ai&theme=radical&bg_color=0D1117" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=Maestro.ai&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
   </a>
   <a href="https://github.com/PoorvaJawale/axon-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=axon-frontend&theme=radical&bg_color=0D1117" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=axon-frontend&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
   </a>
   
   <a href="https://github.com/PoorvaJawale/adhikaar-setu-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=adhikaar-setu-project&theme=radical&bg_color=0D1117" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=adhikaar-setu-project&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
   </a>
   <a href="https://github.com/PoorvaJawale/northstar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=northstar&theme=radical&bg_color=0D1117" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=northstar&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
   </a>
 
   <a href="https://github.com/PoorvaJawale/machine-learning-approaches-for-comparative-literature">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=machine-learning-approaches-for-comparative-literature&theme=radical&bg_color=0D1117" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=machine-learning-approaches-for-comparative-literature&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
   </a>
   <a href="https://github.com/PoorvaJawale/intellitrail">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=intellitrail&theme=radical&bg_color=0D1117" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=intellitrail&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d" width="48%" />
   </a>
 
 </div>
@@ -64,5 +64,3 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PoorvaJawale/PoorvaJawale/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
