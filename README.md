@@ -23,5 +23,3 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 - **Databases:** PostgreSQL, MySQL, SQLite, SQLAlchemy ORM, Supabase, MongoDB
 - **AI / ML / DL / Agentic:** Machine Learning, Deep Learning (LSTM), LLMs, RAG, Agentic AI, Multi-Agent Systems, NLP, Prompt Engineering, Generative AI, n8n Workflow Automation
 - **Developer Tools:** Git, GitHub, Google Workspace, Streamlit, yfinance, pandas-ta, Twilio API, Telegram Bot API, NewsAPI, Dhan Broker API
-
----
