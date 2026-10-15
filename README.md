@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/poorva-jawale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/PoorvaJawale"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://poorva-jawale.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
 </p>
 
@@ -25,42 +24,3 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 - **Developer Tools:** Git, GitHub, Google Workspace, Streamlit, yfinance, pandas-ta, Twilio API, Telegram Bot API, NewsAPI, Dhan Broker API
 
 ---
-
-### Flagship Projects
-
-<div align="center">
-  
-  <a href="https://github.com/PoorvaJawale/Maestro.ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=Maestro.ai&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=Multi-agent+startup+orchestration+system+turning+ideas+into+founder+packages+via+LangGraph" width="48%" />
-  </a>
-  <a href="https://github.com/PoorvaJawale/axon-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=axon-frontend&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=AI+output+validation+firewall+protecting+production+from+hallucinating+agents+via+11+n8n+workflows" width="48%" />
-  </a>
-  
-  <a href="https://github.com/PoorvaJawale/adhikaar-setu-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=adhikaar-setu-project&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=AI+civic+platform+automating+government+welfare+for+farmers+via+WhatsApp+%26+Playwright+RPA" width="48%" />
-  </a>
-  <a href="https://github.com/PoorvaJawale/northstar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=northstar&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=Multimodal+remote-sensing+VLM+assistant+for+satellite+imagery+via+GeoChat-7B+(ISRO+/+SIH)" width="48%" />
-  </a>
-
-  <a href="https://github.com/PoorvaJawale/machine-learning-approaches-for-comparative-literature">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=machine-learning-approaches-for-comparative-literature&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=NLP+and+machine+learning+framework+for+comparative+literature+and+stylistic+text+analysis" width="48%" />
-  </a>
-  <a href="https://github.com/PoorvaJawale/intellitrail">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PoorvaJawale&repo=intellitrail&bg_color=0D1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=30363d&description=Autonomous+AI+trading+platform+with+ML-driven+dynamic+trailing+stop-loss+and+risk+management" width="48%" />
-  </a>
-
-</div>
-
----
-
-### GitHub Contribution Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PoorvaJawale/PoorvaJawale/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PoorvaJawale/PoorvaJawale/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PoorvaJawale/PoorvaJawale/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
