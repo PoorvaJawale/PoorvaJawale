@@ -53,6 +53,15 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 
 </div>
 
+<br>
+
+- **[Maestro.ai](https://github.com/PoorvaJawale/Maestro.ai)** — Autonomous multi-agent startup orchestration system transforming raw ideas into structured founder packages (PRD, architecture, sprint plan, GTM) in minutes using 6 sequential GPT-4o agents via LangGraph, FastAPI, and Pinecone.
+- **[Axon](https://github.com/PoorvaJawale/axon-frontend)** — AI output validation API & firewall protecting production systems from hallucinating agents. Implements a 3-layer guardrail (schema, GPT-4o-mini semantic judge, policy) with fail-closed architecture across 11 n8n workflows, Next.js, and PostgreSQL.
+- **[Adhikaar-Setu](https://github.com/PoorvaJawale/adhikaar-setu-project)** — AI-powered civic platform bridging the welfare access gap for Indian farmers. Combines an intelligent scheme-matching engine, WhatsApp consent loop (Twilio), and Playwright RPA to automate government portal applications with an ethical, OTP-safe framework.
+- **[SatQuery AI (NorthStar)](https://github.com/PoorvaJawale/northstar)** — Interactive vision-language assistant for multimodal satellite & remote-sensing imagery (ISRO / SIH 2026). Features single-image VQA, bi-temporal change detection, and optical-SAR reasoning powered by GeoChat-7B, LangGraph agentic routing, and FastAPI.
+- **[Comparative Literature ML](https://github.com/PoorvaJawale/machine-learning-approaches-for-comparative-literature)** — Research and computational NLP implementations for comparative literature. Leverages machine learning, stylistic feature vectorization, and clustering in Scikit-learn to uncover cross-textual patterns, author signatures, and thematic variations.
+- **[IntelliTrail](https://github.com/PoorvaJawale/intellitrail)** — Autonomous AI algorithmic trading platform with dynamic risk management. Combines an ML price forecasting engine (SMA, RSI, ATR) with adaptive ATR trailing stop-loss strategies, multi-bot portfolio management, and a real-time React 19 dashboard.
+
 ---
 
 ### GitHub Contribution Animation
