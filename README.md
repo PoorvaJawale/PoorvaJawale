@@ -16,7 +16,7 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 - **Languages:** Python, JavaScript, SQL, HTML/CSS
 - **Frameworks & Libraries:** FastAPI, Flask, Django, React 18, Vite, Tailwind CSS, Scikit-learn, Sentence-BERT, NLTK, LangChain, Ollama, YOLOv8, DeepSORT, OpenCV, Playwright
@@ -26,7 +26,7 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 
 ---
 
-### 🏆 Flagship Projects
+### Flagship Projects
 
 *(Note: Click on any project card to view the repository!)*
 
@@ -57,7 +57,7 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 
 ---
 
-### 🐍 GitHub Contribution Animation
+### GitHub Contribution Animation
 
 <div align="center">
   <picture>
@@ -68,16 +68,3 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 </div>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoorvaJawale&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoorvaJawale&layout=compact&theme=radical&bg_color=0D1117&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PoorvaJawale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
