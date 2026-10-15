@@ -28,8 +28,6 @@ Specializing in **Agentic AI, Multi-Agent Systems, and Generative AI**, deployin
 
 ### Flagship Projects
 
-*(Note: Click on any project card to view the repository!)*
-
 <div align="center">
   
   <a href="https://github.com/PoorvaJawale/Maestro.ai">
